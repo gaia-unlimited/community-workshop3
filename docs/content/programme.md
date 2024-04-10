@@ -4,7 +4,8 @@ type: schedule
 active: true
 title: Programme
 
-<!--
+TO BE UPDATED!
+
 program:
     - day: Wednesday
       time: 08:30 - 09:00
@@ -21,7 +22,7 @@ program:
     - day: Wednesday
       time: 09:10 - 10:40
       title: Pitch cards
-      description: Individual one-slide introductions [slide deck](https://docs.google.com/presentation/d/1DMuGoX2aH8UmRljtFMGLIxDNfSxdNnoF6J4XYfX-qvI/edit?usp=sharing)
+      description: Individual one-slide introductions [slide deck]()
 
       highlight: true
     - day: Wednesday
@@ -244,7 +245,6 @@ program:
       title: Conference closed
       time: 15:00 -
 ---
--->
 
 <!--
 <i class="fa-regular fa-calendar" style="font-size:26px";></i> _The program is preliminary and will be updated soon._
