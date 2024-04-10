@@ -2,9 +2,7 @@
 # Program
 type: schedule
 active: true
-title: Programme
-
-TO BE UPDATED!
+title: Programme (to be updated)
 
 program:
     - day: Wednesday
