@@ -4,6 +4,7 @@ type: schedule
 active: true
 title: Programme
 
+<!--
 program:
     - day: Wednesday
       time: 08:30 - 09:00
@@ -243,6 +244,7 @@ program:
       title: Conference closed
       time: 15:00 -
 ---
+-->
 
 <!--
 <i class="fa-regular fa-calendar" style="font-size:26px";></i> _The program is preliminary and will be updated soon._
