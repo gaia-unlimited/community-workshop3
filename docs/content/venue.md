@@ -6,11 +6,12 @@ title: Venue
 ---
 
 The workshop will take place at the [PLNT facility](https://plnt.nl) located in the center of Leiden. Three rooms are reserved for the school:
-<ul>
-<li>[The Arena](https://plnt.nl/Bookings/arena/) for lectures, breakouts, and sprint time</li>
-<li>[The Spark](https://plnt.nl/Bookings/the-spark/) for smaller breakouts or quiet time</li>
-<li>[The Playground](https://plnt.nl/Bookings/the-playground/) for breakouts and sprint time</li>
-</ul>
+
+[The Arena](https://plnt.nl/Bookings/arena/) for lectures, breakouts, and sprint time
+
+[The Spark](https://plnt.nl/Bookings/the-spark/) for smaller breakouts or quiet time
+
+[The Playground](https://plnt.nl/Bookings/the-playground/) for breakouts and sprint time
 
 [<i class="fa-solid fa-map-location-dot" style="font-size:48px;"></i>](https://maps.app.goo.gl/2Hxd3dhDAkFKjmGw9)
 
