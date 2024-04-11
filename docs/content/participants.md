@@ -1,8 +1,8 @@
 ---
-# Registration
-type: registration
+# Participants
+type: participants
 active: true
-title: Registration
+title: Participants
 ---
 
 <!--
@@ -15,7 +15,6 @@ Please use the [registration form](https://forms.gle/392gVDj4LmBH3yQZA). We esti
 
 ##<i class="fa-solid fa-circle-check"></i> Participation confirmation by **July 31 2023**.
 
-## Participants
 
 _We will later list here the participants of the workshop, and we will add a group picture._
 
