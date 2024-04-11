@@ -6,7 +6,7 @@ title: Overview
 ---
 The workshop's theme is the Gaia selection function and how to use it. This event will be a three-day workshop and unconference, where we will discuss and learn from each other about the finer details of the Gaia selection function and how to build and use it in various contexts. Participants will be working with the new GaiaUnlimited selection function tools, for which we will assist as needed, and we will improve them based on the feedback we'll receive. We hope this workshop could lead to some new collaborations or initial joint studies. We want to dedicate a significant amount of time to unconference sessions and informal discussions.
 
-> **New in this workshop:** This is the closing workshop of the GaiaUnlimited project where the completed selection function tools will be presented. More advanced worked examples based on actual science applications will be presented. The workshop is also the occasion to discuss the future of the GaiaUnlimited project beyond the Horizon 2020 funding.
+> **New in this workshop:** This is the closing workshop of the GaiaUnlimited project where the completed selection function tools will be presented. Further advanced worked examples based on science applications will be presented. The workshop is also the occasion to discuss the future of the GaiaUnlimited project, beyond the Horizon 2020 funding.
 
 ***
 
