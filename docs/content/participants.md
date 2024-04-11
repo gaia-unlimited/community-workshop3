@@ -1,8 +1,8 @@
 ---
 # Registration
-type: participants
+type: registration
 active: true
-title: Participants
+title: Registration
 ---
 
 <!--
