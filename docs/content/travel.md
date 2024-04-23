@@ -29,7 +29,7 @@ Amsterdam Schiphol airport has plenty of connections to European cities and hubs
 
 ## Local public transport
 
-The bus stop closets to the venue is [Leiden Energiepark](https://maps.app.goo.gl/ie12ehTRnkrovQN88) which is serviced by bus numbers 45, 56, and 400. One the bus you can pay with your debit card. [This is explained here.](https://www.ovpay.nl/en). Alternatively you can get yourself an "OV-chipkaart" to pay for buses and trains. [More information here.](https://www.ov-chipkaart.nl/en) You can choose to get an [anonymous OV-chipkaart](https://www.ov-chipkaart.nl/en/anonymous-ov-chipkaart). These cards can bought at trainstations and [at other locations](https://www.ov-chipkaart.nl/en/service-points-finder).
+On the bus and train you can pay with your debit card. [This is explained here.](https://www.ovpay.nl/en). Alternatively you can get yourself an "OV-chipkaart" to pay for buses and trains. [More information here.](https://www.ov-chipkaart.nl/en) You can choose to get an [anonymous OV-chipkaart](https://www.ov-chipkaart.nl/en/anonymous-ov-chipkaart). These cards can bought at trainstations and [at other locations](https://www.ov-chipkaart.nl/en/service-points-finder).
 
 <i class="fa-solid fa-exclamation-triangle"></i> __You cannot pay with cash on public transport.__
 

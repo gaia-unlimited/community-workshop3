@@ -17,7 +17,7 @@ The workshop will take place at the [PLNT facility](https://plnt.nl) located in 
 
 ## Access
 
-PLNT is in the centre of Leiden and reachable by public transport. It is within walking distance from most of the accomodations.
+PLNT is in the centre of Leiden and reachable by public transport. It is within walking distance from most of the accomodations. The bus stop closets to the venue is [Leiden Energiepark](https://maps.app.goo.gl/ie12ehTRnkrovQN88) which is serviced by bus numbers 45, 56, and 400.
 
 Don't hesitate to contact us if you need assistance or have questions.
 
