@@ -13,9 +13,11 @@ Please use the [registration form](https://forms.gle/392gVDj4LmBH3yQZA). We esti
 
 <i class="fa-solid fa-video"></i> Remote participation will be possible, but in person participation is recommended to get the most out of the workshop.
 
-<i class="fa-solid fa-envelope-open-text"></i> Participants notified on **July 14 2023**.
+###<i class="fa-solid fa-exclamation-triangle"></i> Registration closes on **June 14 2024**.
 
-##<i class="fa-solid fa-circle-check"></i> Participation confirmation by **July 31 2023**.
+###<i class="fa-solid fa-envelope-open-text"></i> Participants notified on **July 1 2024**.
+
+###<i class="fa-solid fa-circle-check"></i> Participation confirmation by **July 15 2024**.
 
 
 _We will later list here the participants of the workshop, and we will add a group picture._
