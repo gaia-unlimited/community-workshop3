@@ -47,6 +47,7 @@ program:
         Selection Function for Gaia Subsamples
         Examples of selection functions for combinations of Gaia and other surveys; Gaia+APOGEE, Gaia+AllWISE
         Examples of specialized selection functions: RGB sample based on Andrae et al (2023), binary selection based on RUWE
+        TOPICS CAN BE REPEATED IN MORE IN-DEPTH TUTORIALS DURING UNCONFERENCE SESSIONS
 
     - day: Monday
       time: 12:30 - 13:30
