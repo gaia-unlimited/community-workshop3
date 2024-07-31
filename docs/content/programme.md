@@ -18,13 +18,21 @@ program:
       highlight: true
 
     - day: Monday
-      time: 09:10 - 10:40
+      time: 09:10 - 10:00
       title: Pitch cards
       description: Individual one-slide introductions [slide deck](https://docs.google.com/presentation/d/129dMgPvSP_gWxbiLA3nNBAgWdsC5j6qUgDxePL5C2GE/edit?usp=sharing)
 
       highlight: true
     - day: Monday
-      time: 10:40 - 11:00
+      time: 10:00 - 10:30
+      title: Session 1 - The Gaia selection function & GaiaUnlimited project
+      highlight: true
+      description: |2-
+        GaiaUnlimited Overview
+
+      highlight: true
+    - day: Monday
+      time: 10:30 - 11:00
       title: Coffee break
       description:
       highlight: true
@@ -34,8 +42,11 @@ program:
       title: Session 1 - The Gaia selection function & GaiaUnlimited project
       highlight: true
       description: |2-
-        GaiaUnlimited Overview
         GaiaUnlimited tools
+        An empirical calibration of the Gaia DR3 selection function
+        Selection Function for Gaia Subsamples
+        Examples of selection functions for combinations of Gaia and other surveys; Gaia+APOGEE, Gaia+AllWISE
+        Examples of specialized selection functions: RGB sample based on Andrae et al (2023), binary selection based on RUWE
 
     - day: Monday
       time: 12:30 - 13:30
@@ -47,7 +58,7 @@ program:
       time: 13:30 - 13:50
       title: Daily Unconference Planning
       highlight: true
-      description: Unconference topic selection and room allocation
+      description: Unconference and Tutorials topic selection and room allocation
 
     - day: Monday
       time: 14:00 - 15:30
@@ -63,14 +74,14 @@ program:
       highlight: true
 
     - day: Monday
-      time: 16:00 - 17:00
+      time: 16:00 - 16:30
       title: Unconference and Tutorials
       highlight: true
       description: |2-
         ...
 
     - day: Monday
-      time: 17:00 - 17:15
+      time: 16:30 - 17:00
       title: Wrap-up
       description: |2-
         Reports on the unconference sessions. Sharing results and feedback.
@@ -86,6 +97,8 @@ program:
       time: 09.10 - 12.00
       title: programme TBD
       hightlight: true
+      description: |2-
+        Discussion session on future of GaiaUnlimited
 
     - day: Tuesday
       time: 12:30 - 13:30
@@ -94,7 +107,7 @@ program:
       description:
 
     - day: Tuesday
-      time: 17:00 - 17:15
+      time: 16:30 - 17:00
       title: Wrap-up
       description: |2-
         Reports on the unconference sessions. Sharing results and feedback.
@@ -136,7 +149,7 @@ program:
 
     - day: Wednesday
       time: 14:15 - 15:00
-      title: Participants feedback on GaiaUnlimited and future of project
+      title: Participants feedback on GaiaUnlimited
       highlight: true
       description: |2-
         [GaiaUnlimited: feedback and perspectives](), by Anthony Brown
