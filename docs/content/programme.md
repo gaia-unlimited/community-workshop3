@@ -90,13 +90,21 @@ program:
 
 # ----------------------------------------------------------------
     - day: Tuesday
+      time: 10:00 - 16.00
+      title: Virtual Starship demo by Kevin Jardine
+      highlight: true
+      description: |2-
+        The Virtual Starship is an immersive 3D virtual reality application that lets multiple users travel together to various locations (currently 45) in the Milky Way. For an impression of the Virtual Starship have a look at [this video](https://gruze.org/starship/starship_nav.mp4) or [this discussion thread](https://mastodon.social/@galaxy_map/112099114212894052).
+        Individuals can participate in the demo throughout the day.
+
+    - day: Tuesday
       time: 09:00 - 09:10
       title: boot-up
       highlight: true
 
     - day: Tuesday
       time: 09.10 - 12.00
-      title: programme TBD
+      title: Unconference and Tutorials
       hightlight: true
       description: |2-
         Discussion session on future of GaiaUnlimited
@@ -108,6 +116,32 @@ program:
       description:
 
     - day: Tuesday
+      time: 13:30 - 13:50
+      title: Daily Unconference Planning
+      highlight: true
+      description: Unconference and Tutorials topic selection and room allocation
+
+    - day: Tuesday
+      time: 14:00 - 15:30
+      title: Unconference and Tutorials
+      highlight: true
+      description: |2-
+        ...
+
+    - day: Tuesday
+      time: 15:30 - 16:00
+      title: Coffee break
+      description:
+      highlight: true
+
+    - day: Tuesday
+      time: 16:00 - 16:30
+      title: Unconference and Tutorials
+      highlight: true
+      description: |2-
+        ...
+
+  - day: Tuesday
       time: 16:30 - 17:00
       title: Wrap-up
       description: |2-
