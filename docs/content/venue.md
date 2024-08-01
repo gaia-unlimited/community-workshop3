@@ -5,7 +5,7 @@ active: true
 title: Venue
 ---
 
-The workshop will take place at the [PLNT facility](https://plnt.nl) located in the center of Leiden. Three rooms are reserved for the school:
+The workshop will take place at the [PLNT facility](https://plnt.nl) located in the center of Leiden. Three rooms are reserved for the workshop:
 
 [The Arena](https://plnt.nl/en/Bookings/the-arena/) for lectures, breakouts, and sprint time
 
