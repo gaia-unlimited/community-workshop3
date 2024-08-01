@@ -141,7 +141,7 @@ program:
       description: |2-
         ...
 
-  - day: Tuesday
+    - day: Tuesday
       time: 16:30 - 17:00
       title: Wrap-up
       description: |2-
