@@ -13,7 +13,7 @@ Please use the [registration form](https://forms.gle/392gVDj4LmBH3yQZA). We esti
 
 <i class="fa-solid fa-video"></i> Remote participation will be possible, but in person participation is recommended to get the most out of the workshop.
 
-###<i class="fa-solid fa-exclamation-triangle"></i> **Registration is open untill all availabe places are filled.**.
+###<i class="fa-solid fa-exclamation-triangle"></i> **2024.08.10: There are still places available. Registration is open untill all availabe places are filled.**
 
 <!--
 ###<i class="fa-solid fa-envelope-open-text"></i> Participants notified on **July 12 2024**.
