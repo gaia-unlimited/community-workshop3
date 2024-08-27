@@ -21,8 +21,8 @@ program:
       time: 09:10 - 10:00
       title: Pitch cards
       description: Individual one-slide introductions [slide deck](https://docs.google.com/presentation/d/129dMgPvSP_gWxbiLA3nNBAgWdsC5j6qUgDxePL5C2GE/edit?usp=sharing)
-
       highlight: true
+
     - day: Monday
       time: 10:00 - 10:30
       title: Session 1 - The Gaia selection function & GaiaUnlimited project
@@ -30,7 +30,6 @@ program:
       description: |2-
         GaiaUnlimited Overview
 
-      highlight: true
     - day: Monday
       time: 10:30 - 11:00
       title: Coffee break
@@ -66,7 +65,6 @@ program:
       title: Unconference and Tutorials
       highlight: true
       description: |2-
-        ...
 
     - day: Monday
       time: 15:30 - 16:00
@@ -76,10 +74,10 @@ program:
 
     - day: Monday
       time: 16:00 - 16:30
-      title: Unconference and Tutorials
+      title: Session 2
       highlight: true
       description: |2-
-        ...
+        Gaia Mission public outreach using galactic cartography, Kevin Jardine
 
     - day: Monday
       time: 16:30 - 17:00
@@ -103,8 +101,28 @@ program:
       highlight: true
 
     - day: Tuesday
-      time: 09.10 - 12.00
-      title: Unconference and Tutorials
+      time: 09.10 - 09.40
+      title: Session 3
+      hightlight: true
+      description: |2-
+        Selection Functions in Orbits Space, Hans-Walter Rix
+
+    - day: Tuesday
+      time: 09.40 - 10.30
+      title: Session 4
+      hightlight: true
+      description: |2-
+        Discussion session on future of GaiaUnlimited
+
+    - day: Tuesday
+      time: 10:30 - 11:00
+      title: Coffee break
+      description:
+      highlight: true
+
+    - day: Tuesday
+      time: 11.00 - 12.30
+      title: Session 4 continued
       hightlight: true
       description: |2-
         Discussion session on future of GaiaUnlimited
@@ -126,7 +144,6 @@ program:
       title: Unconference and Tutorials
       highlight: true
       description: |2-
-        ...
 
     - day: Tuesday
       time: 15:30 - 16:00
@@ -139,7 +156,6 @@ program:
       title: Unconference and Tutorials
       highlight: true
       description: |2-
-        ...
 
     - day: Tuesday
       time: 16:30 - 17:00
