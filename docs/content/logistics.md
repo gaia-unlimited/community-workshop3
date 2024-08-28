@@ -23,9 +23,9 @@ If you need help with childcare arrangements, don't hesitate to contact us.
 
 ## <i class="fa-solid fa-champagne-glasses"></i> Workshop dinner
 
-__Tuesday evening (day 2)__ of the workshop we will have a social dinner.
+__Tuesday evening (day 2)__ of the workshop we will have a social dinner. The venue is [Tabú](https://www.tabu.nl/) and they will serve a four couse shared dining menu, including vegetarian and vegan options. The food will be paid for. Drinks are not included. In order to let the restaurant know exactly how many we will be, we ask that you confirm your participation (or not) by filling out this [Google form](https://forms.gle/TBN21MQe4diShbtb8) by September 5 2024 EOB.
 
-__Dinner starts at 19:30__
+__Dinner starts at 19:00__
 
 ## <i class="fa-solid fa-universal-access"></i> Accessibility
 
