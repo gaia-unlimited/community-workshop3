@@ -44,10 +44,6 @@ program:
         Overview of GaiaUnlimited tools and documentation: Alfred Castro-Ginard 15 mn
         The top level Gaia selection functions: empirical SF; subsample SF; forward modelling the SF: Alfred Castro-Ginard 30 mn
         Selection function for binaries selected on basis of RUWE: Alfred Castro-Ginard 30 mn
-        
-        Examples of selection functions for combinations of Gaia and other surveys; Gaia+APOGEE, Gaia+AllWISE
-        Examples of specialized selection functions: RGB sample based on Andrae et al (2023), binary selection based on RUWE
-        TOPICS CAN BE REPEATED IN MORE IN-DEPTH TUTORIALS DURING UNCONFERENCE SESSIONS
 
     - day: Monday
       time: 12:30 - 13:30
