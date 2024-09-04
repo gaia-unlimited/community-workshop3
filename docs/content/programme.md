@@ -41,9 +41,10 @@ program:
       title: Session 1 - The Gaia selection function & GaiaUnlimited project
       highlight: true
       description: |2-
-        GaiaUnlimited tools
-        An empirical calibration of the Gaia DR3 selection function
-        Selection Function for Gaia Subsamples
+        Overview of GaiaUnlimited tools and documentation: Alfred Castro-Ginard 15 mn
+        The top level Gaia selection functions: empirical SF; subsample SF; forward modelling the SF: Alfred Castro-Ginard 30 mn
+        Selection function for binaries selected on basis of RUWE: Alfred Castro-Ginard 30 mn
+        
         Examples of selection functions for combinations of Gaia and other surveys; Gaia+APOGEE, Gaia+AllWISE
         Examples of specialized selection functions: RGB sample based on Andrae et al (2023), binary selection based on RUWE
         TOPICS CAN BE REPEATED IN MORE IN-DEPTH TUTORIALS DURING UNCONFERENCE SESSIONS
@@ -88,41 +89,44 @@ program:
 
 # ----------------------------------------------------------------
     - day: Tuesday
+      time: 09:00 - 09:10
+      title: boot-up
+      highlight: true
+
+    - day: Tuesday
       time: 10:00 - 16.00
-      title: Virtual Starship demo by Kevin Jardine
+      title: Virtual Starship demo by Kevin Jardine, parallel session
       highlight: true
       description: |2-
         The Virtual Starship is an immersive 3D virtual reality application that lets multiple users travel together to various locations (currently 45) in the Milky Way. For an impression of the Virtual Starship have a look at [this video](https://gruze.org/starship/starship_nav.mp4) or [this discussion thread](https://mastodon.social/@galaxy_map/112099114212894052).
         Individuals can participate in the demo throughout the day.
 
     - day: Tuesday
-      time: 09:00 - 09:10
-      title: boot-up
-      highlight: true
-
-    - day: Tuesday
-      time: 09.10 - 09.40
+      time: 09.10 - 10.40
       title: Session 3
       hightlight: true
       description: |2-
-        Selection Functions in Orbits Space, Hans-Walter Rix
+        Selection Functions in Orbits Space: Hans-Walter Rix 30 mn
+        Modelling the Aurora population from a sample of RGB stars: Evgeny Kurbatov 30 mn
+        The Galactic disc structure with an All-sky Red Clump catalogue using Gaia & AllWISE: Shourya Khanna 30 mn
+        Uniting Gaia and APOGEE to unveil the cosmic chemistry of the Milky Way disc: Morgan Fouesneau, 30 mn
 
     - day: Tuesday
-      time: 09.40 - 10.30
-      title: Session 4
-      hightlight: true
-      description: |2-
-        Discussion session on future of GaiaUnlimited
-
-    - day: Tuesday
-      time: 10:30 - 11:00
+      time: 10:40 - 11:00
       title: Coffee break
       description:
       highlight: true
 
     - day: Tuesday
-      time: 11.00 - 12.30
-      title: Session 4 continued
+      time: 11.00 - 11.30
+      title: Session 3 continued
+      hightlight: true
+      description: |2-
+        Uniting Gaia and APOGEE to unveil the cosmic chemistry of the Milky Way disc: Morgan Fouesneau, 30 mn
+
+    - day: Tuesday
+      time: 11.30 - 12.30
+      title: Session 4
       hightlight: true
       description: |2-
         Discussion session on future of GaiaUnlimited
@@ -165,8 +169,8 @@ program:
       highlight: true
 
     - day: Tuesday
-      time: 19:30 -
-      title: Dinner at TBD place
+      time: 19:00 -
+      title: Dinner at Tabú
       highlight: true
 
 # ----------------------------------------------------------------
