@@ -105,7 +105,6 @@ program:
         Selection Functions in Orbits Space: Hans-Walter Rix 30 mn
         Modelling the Aurora population from a sample of RGB stars: Evgeny Kurbatov 30 mn
         The Galactic disc structure with an All-sky Red Clump catalogue using Gaia & AllWISE: Shourya Khanna 30 mn
-        Uniting Gaia and APOGEE to unveil the cosmic chemistry of the Milky Way disc: Morgan Fouesneau, 30 mn
 
     - day: Tuesday
       time: 10:40 - 11:00
