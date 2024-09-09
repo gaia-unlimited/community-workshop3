@@ -32,6 +32,7 @@ Andrew Garner (University of Surrey)<br/>
 Francesco Guerriero (Leiden Observatory)<br/>
 Morgan Fouesneau (Max Planck Institute for Astronomy)<br/>
 Berry Holl (Department of Astronomy, University of Geneva)<br/>
+Kevin Jardine (Radagast Solutions)<br/>
 Shourya Khanna (INAF Torino)<br/>
 Zuzanna Kostrzewa (Kapteyn Institute)<br/>
 Evgeny Kurbatov (Institute of Astronomy, Cambridge)<br/>
