@@ -7,7 +7,7 @@ title: Participants
 
 <i class="fa-solid fa-people-group"></i> The registration is **closed**.
 
-<!-->
+<!--
 Please use the [registration form](https://forms.gle/392gVDj4LmBH3yQZA). We estimate that it will take 15-30 minutes to complete. We aim to select a group of about 40 participants with a broad range of expertise and interests. We will also balance the distribution across geographical locations and career stages while including underrepresented groups.
 
 <i class="fa-solid fa-video"></i> Remote participation will be possible, but in person participation is recommended to get the most out of the workshop.
