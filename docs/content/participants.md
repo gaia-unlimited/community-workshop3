@@ -21,6 +21,14 @@ Please use the [registration form](https://forms.gle/392gVDj4LmBH3yQZA). We esti
 ###<i class="fa-solid fa-circle-check"></i> Participation confirmation by **July 26 2024**.
 -->
 
+<!--
+_We will later list here the participants of the workshop, and we will add a group picture._
+-->
+
+<div style="display:flex; justify-content: center; flex-wrap: wrap;">
+<img src="static/img/community-workshop3-group-picture.jpg" alt="group" width=90% style="float: right;">
+</div>
+
 <div style="display:flex; justify-content: center; flex-wrap: wrap;">
 <div class="col-md-6" align="right" style="margin: 10px;">
 Judith Ardèvol (Universitat de Barcelona)<br/>
@@ -45,16 +53,6 @@ Sill Verberne (Leiden Observatory)<br/>
 Alex Wallace (Monash University)<br/>
 Hai-Feng Wang (University of Padova)<br/>
 </div>
-
-<!--
-_We will later list here the participants of the workshop, and we will add a group picture._
--->
-
-<!--
-<div style="display:flex; justify-content: center; flex-wrap: wrap;">
-<img src="static/img/community-workshop3-group-picture.jpg" alt="group" width=90% style="float: right;">
-</div>
--->
 
 <div style="font-size:30px; display:flex; justify-content: center;">
 <i class="fa-solid fa-people-group" style="margin-left: 15px;"></i>
