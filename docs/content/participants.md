@@ -26,7 +26,7 @@ _We will later list here the participants of the workshop, and we will add a gro
 -->
 
 <div style="display:flex; justify-content: center; flex-wrap: wrap;">
-<img src="static/img/community-workshop3-group-picture.jpg" alt="group" width=90% style="float: right;">
+<img src="static/img/community-workshop3-group-picture.jpg" alt="group" width=80% style="float: right;">
 </div>
 
 <div style="display:flex; justify-content: center; flex-wrap: wrap;">
