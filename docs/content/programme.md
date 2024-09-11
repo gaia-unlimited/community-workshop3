@@ -175,7 +175,7 @@ program:
       highlight: true
 
     - day: Wednesday
-      time: 09.10 - 12.00
+      time: 09.10 - 11.00
       title: Session 5
       description: |2-
         [GaiaUnlimited: feedback and perspectives](), Anthony Brown
