@@ -176,7 +176,10 @@ program:
 
     - day: Wednesday
       time: 09.10 - 12.00
-      title: programme TBD
+      title: Session 5
+      description: |2-
+        [GaiaUnlimited: feedback and perspectives](), Anthony Brown
+        Discussion on outreach possibilities
       hightlight: true
  
     - day: Wednesday
@@ -186,23 +189,10 @@ program:
       description:
 
     - day: Wednesday
-      time: 13:30 - 13:40
-      title: Final logistics
-      highlight: true
-      description: |2-
-
-    - day: Wednesday
-      time: 13:40 - 14.15
+      time: 13:30 - 15.00
       title: Unconference and Tutorials
       highlight: true
       description:
-
-    - day: Wednesday
-      time: 14:15 - 15:00
-      title: Participants feedback on GaiaUnlimited
-      highlight: true
-      description: |2-
-        [GaiaUnlimited: feedback and perspectives](), by Anthony Brown
 
     - day: Wednesday
       title: Conference closed
